@@ -1,150 +1,150 @@
 ::Pedido 0:: -> 1 tipos de productos, 10 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 12 | Dinámico: 0
-		Dinámico dio un total de 12 productos menos que Greedy
+		Greedy: 9 | Dinámico: 0
+		Dinámico dio un total de 9 productos menos que Greedy
 
 ::Pedido 1:: -> 1 tipos de productos, 15 paquetes por tipo
-	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 8 | Dinámico: 0
-		Dinámico dio un total de 8 productos menos que Greedy
-
-::Pedido 2:: -> 2 tipos de productos, 20 paquetes por tipo
-	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 8 | Dinámico: 0
-		Dinámico dio un total de 8 productos menos que Greedy
-
-::Pedido 3:: -> 2 tipos de productos, 25 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
 		Greedy: 3 | Dinámico: 0
 		Dinámico dio un total de 3 productos menos que Greedy
 
+::Pedido 2:: -> 2 tipos de productos, 20 paquetes por tipo
+	Diferencia total (suma de las diferencias de cada elemento):
+		Greedy: 7 | Dinámico: 0
+		Dinámico dio un total de 7 productos menos que Greedy
+
+::Pedido 3:: -> 2 tipos de productos, 25 paquetes por tipo
+	Diferencia total (suma de las diferencias de cada elemento):
+		Greedy: 1 | Dinámico: 0
+		Dinámico dio un total de 1 productos menos que Greedy
+
 ::Pedido 4:: -> 3 tipos de productos, 30 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 42 | Dinámico: 0
-		Dinámico dio un total de 42 productos menos que Greedy
+		Greedy: 36 | Dinámico: 0
+		Dinámico dio un total de 36 productos menos que Greedy
 
 ::Pedido 5:: -> 3 tipos de productos, 35 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 29 | Dinámico: 0
-		Dinámico dio un total de 29 productos menos que Greedy
+		Greedy: 23 | Dinámico: 0
+		Dinámico dio un total de 23 productos menos que Greedy
 
 ::Pedido 6:: -> 4 tipos de productos, 40 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 6 | Dinámico: 0
-		Dinámico dio un total de 6 productos menos que Greedy
+		Greedy: 33 | Dinámico: 9
+		Dinámico dio un total de 24 productos menos que Greedy
 
 ::Pedido 7:: -> 4 tipos de productos, 45 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 11 | Dinámico: 0
-		Dinámico dio un total de 11 productos menos que Greedy
+		Greedy: 49 | Dinámico: 0
+		Dinámico dio un total de 49 productos menos que Greedy
 
 ::Pedido 8:: -> 5 tipos de productos, 50 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 45 | Dinámico: 0
-		Dinámico dio un total de 45 productos menos que Greedy
+		Greedy: 15 | Dinámico: 0
+		Dinámico dio un total de 15 productos menos que Greedy
 
 ::Pedido 9:: -> 5 tipos de productos, 55 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 46 | Dinámico: 0
-		Dinámico dio un total de 46 productos menos que Greedy
+		Greedy: 22 | Dinámico: 0
+		Dinámico dio un total de 22 productos menos que Greedy
 
 ::Pedido 10:: -> 6 tipos de productos, 60 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 109 | Dinámico: 0
-		Dinámico dio un total de 109 productos menos que Greedy
+		Greedy: 54 | Dinámico: 0
+		Dinámico dio un total de 54 productos menos que Greedy
 
 ::Pedido 11:: -> 6 tipos de productos, 65 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 91 | Dinámico: 0
-		Dinámico dio un total de 91 productos menos que Greedy
+		Greedy: 22 | Dinámico: 0
+		Dinámico dio un total de 22 productos menos que Greedy
 
 ::Pedido 12:: -> 7 tipos de productos, 70 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 77 | Dinámico: 0
-		Dinámico dio un total de 77 productos menos que Greedy
+		Greedy: 53 | Dinámico: 0
+		Dinámico dio un total de 53 productos menos que Greedy
 
 ::Pedido 13:: -> 7 tipos de productos, 75 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 38 | Dinámico: 0
-		Dinámico dio un total de 38 productos menos que Greedy
+		Greedy: 66 | Dinámico: 0
+		Dinámico dio un total de 66 productos menos que Greedy
 
 ::Pedido 14:: -> 8 tipos de productos, 80 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 111 | Dinámico: 0
-		Dinámico dio un total de 111 productos menos que Greedy
+		Greedy: 59 | Dinámico: 0
+		Dinámico dio un total de 59 productos menos que Greedy
 
 ::Pedido 15:: -> 8 tipos de productos, 85 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 101 | Dinámico: 0
-		Dinámico dio un total de 101 productos menos que Greedy
+		Greedy: 51 | Dinámico: 0
+		Dinámico dio un total de 51 productos menos que Greedy
 
 ::Pedido 16:: -> 9 tipos de productos, 90 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 67 | Dinámico: 0
-		Dinámico dio un total de 67 productos menos que Greedy
+		Greedy: 88 | Dinámico: 0
+		Dinámico dio un total de 88 productos menos que Greedy
 
 ::Pedido 17:: -> 9 tipos de productos, 95 paquetes por tipo
-	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 118 | Dinámico: 0
-		Dinámico dio un total de 118 productos menos que Greedy
-
-::Pedido 18:: -> 10 tipos de productos, 100 paquetes por tipo
-	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 69 | Dinámico: 0
-		Dinámico dio un total de 69 productos menos que Greedy
-
-::Pedido 19:: -> 10 tipos de productos, 105 paquetes por tipo
-	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 78 | Dinámico: 0
-		Dinámico dio un total de 78 productos menos que Greedy
-
-::Pedido 20:: -> 11 tipos de productos, 110 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
 		Greedy: 86 | Dinámico: 0
 		Dinámico dio un total de 86 productos menos que Greedy
 
+::Pedido 18:: -> 10 tipos de productos, 100 paquetes por tipo
+	Diferencia total (suma de las diferencias de cada elemento):
+		Greedy: 65 | Dinámico: 0
+		Dinámico dio un total de 65 productos menos que Greedy
+
+::Pedido 19:: -> 10 tipos de productos, 105 paquetes por tipo
+	Diferencia total (suma de las diferencias de cada elemento):
+		Greedy: 72 | Dinámico: 0
+		Dinámico dio un total de 72 productos menos que Greedy
+
+::Pedido 20:: -> 11 tipos de productos, 110 paquetes por tipo
+	Diferencia total (suma de las diferencias de cada elemento):
+		Greedy: 64 | Dinámico: 0
+		Dinámico dio un total de 64 productos menos que Greedy
+
 ::Pedido 21:: -> 11 tipos de productos, 115 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 104 | Dinámico: 0
-		Dinámico dio un total de 104 productos menos que Greedy
+		Greedy: 109 | Dinámico: 0
+		Dinámico dio un total de 109 productos menos que Greedy
 
 ::Pedido 22:: -> 12 tipos de productos, 120 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 78 | Dinámico: 0
-		Dinámico dio un total de 78 productos menos que Greedy
+		Greedy: 191 | Dinámico: 0
+		Dinámico dio un total de 191 productos menos que Greedy
 
 ::Pedido 23:: -> 12 tipos de productos, 125 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 183 | Dinámico: 0
-		Dinámico dio un total de 183 productos menos que Greedy
+		Greedy: 64 | Dinámico: 0
+		Dinámico dio un total de 64 productos menos que Greedy
 
 ::Pedido 24:: -> 13 tipos de productos, 130 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 92 | Dinámico: 0
-		Dinámico dio un total de 92 productos menos que Greedy
+		Greedy: 106 | Dinámico: 0
+		Dinámico dio un total de 106 productos menos que Greedy
 
 ::Pedido 25:: -> 13 tipos de productos, 135 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 127 | Dinámico: 0
-		Dinámico dio un total de 127 productos menos que Greedy
+		Greedy: 121 | Dinámico: 0
+		Dinámico dio un total de 121 productos menos que Greedy
 
 ::Pedido 26:: -> 14 tipos de productos, 140 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 162 | Dinámico: 0
-		Dinámico dio un total de 162 productos menos que Greedy
+		Greedy: 114 | Dinámico: 0
+		Dinámico dio un total de 114 productos menos que Greedy
 
 ::Pedido 27:: -> 14 tipos de productos, 145 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 127 | Dinámico: 0
-		Dinámico dio un total de 127 productos menos que Greedy
+		Greedy: 146 | Dinámico: 0
+		Dinámico dio un total de 146 productos menos que Greedy
 
 ::Pedido 28:: -> 15 tipos de productos, 150 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 177 | Dinámico: 0
-		Dinámico dio un total de 177 productos menos que Greedy
+		Greedy: 132 | Dinámico: 0
+		Dinámico dio un total de 132 productos menos que Greedy
 
 ::Pedido 29:: -> 15 tipos de productos, 155 paquetes por tipo
 	Diferencia total (suma de las diferencias de cada elemento):
-		Greedy: 94 | Dinámico: 0
-		Dinámico dio un total de 94 productos menos que Greedy
+		Greedy: 103 | Dinámico: 0
+		Dinámico dio un total de 103 productos menos que Greedy
 
