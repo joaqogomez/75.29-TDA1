@@ -1,0 +1,150 @@
+::Pedido 0:: -> 1 tipos de productos, 10 paquetes por tipo
+	Greedy cuadratico da 11 productos de sobra -> 10.29%
+	Dinámico da 1 productos de sobra -> 0.94%
+	Greedy cuadratico dio un total de 10 productos más que Dinámico -> 9.35%
+
+::Pedido 1:: -> 1 tipos de productos, 15 paquetes por tipo
+	Greedy cuadratico da 3 productos de sobra -> 0.26%
+	Dinámico da 1 productos de sobra -> 0.09%
+	Greedy cuadratico dio un total de 2 productos más que Dinámico -> 0.17%
+
+::Pedido 2:: -> 2 tipos de productos, 20 paquetes por tipo
+	Greedy cuadratico da 7 productos de sobra -> 0.43%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 7 productos más que Dinámico -> 0.43%
+
+::Pedido 3:: -> 2 tipos de productos, 25 paquetes por tipo
+	Greedy cuadratico da 15 productos de sobra -> 1.0%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 15 productos más que Dinámico -> 1.0%
+
+::Pedido 4:: -> 3 tipos de productos, 30 paquetes por tipo
+	Greedy cuadratico da 7 productos de sobra -> 0.11%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 7 productos más que Dinámico -> 0.11%
+
+::Pedido 5:: -> 3 tipos de productos, 35 paquetes por tipo
+	Greedy cuadratico da 31 productos de sobra -> 0.23%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 31 productos más que Dinámico -> 0.23%
+
+::Pedido 6:: -> 4 tipos de productos, 40 paquetes por tipo
+	Greedy cuadratico da 28 productos de sobra -> 0.26%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 28 productos más que Dinámico -> 0.26%
+
+::Pedido 7:: -> 4 tipos de productos, 45 paquetes por tipo
+	Greedy cuadratico da 53 productos de sobra -> 0.24%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 53 productos más que Dinámico -> 0.24%
+
+::Pedido 8:: -> 5 tipos de productos, 50 paquetes por tipo
+	Greedy cuadratico da 28 productos de sobra -> 0.11%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 28 productos más que Dinámico -> 0.11%
+
+::Pedido 9:: -> 5 tipos de productos, 55 paquetes por tipo
+	Greedy cuadratico da 80 productos de sobra -> 0.2%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 80 productos más que Dinámico -> 0.2%
+
+::Pedido 10:: -> 6 tipos de productos, 60 paquetes por tipo
+	Greedy cuadratico da 56 productos de sobra -> 0.14%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 56 productos más que Dinámico -> 0.14%
+
+::Pedido 11:: -> 6 tipos de productos, 65 paquetes por tipo
+	Greedy cuadratico da 84 productos de sobra -> 0.14%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 84 productos más que Dinámico -> 0.14%
+
+::Pedido 12:: -> 7 tipos de productos, 70 paquetes por tipo
+	Greedy cuadratico da 84 productos de sobra -> 0.16%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 84 productos más que Dinámico -> 0.16%
+
+::Pedido 13:: -> 7 tipos de productos, 75 paquetes por tipo
+	Greedy cuadratico da 35 productos de sobra -> 0.04%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 35 productos más que Dinámico -> 0.04%
+
+::Pedido 14:: -> 8 tipos de productos, 80 paquetes por tipo
+	Greedy cuadratico da 107 productos de sobra -> 0.08%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 107 productos más que Dinámico -> 0.08%
+
+::Pedido 15:: -> 8 tipos de productos, 85 paquetes por tipo
+	Greedy cuadratico da 116 productos de sobra -> 0.08%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 116 productos más que Dinámico -> 0.08%
+
+::Pedido 16:: -> 9 tipos de productos, 90 paquetes por tipo
+	Greedy cuadratico da 70 productos de sobra -> 0.04%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 70 productos más que Dinámico -> 0.04%
+
+::Pedido 17:: -> 9 tipos de productos, 95 paquetes por tipo
+	Greedy cuadratico da 52 productos de sobra -> 0.03%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 52 productos más que Dinámico -> 0.03%
+
+::Pedido 18:: -> 10 tipos de productos, 100 paquetes por tipo
+	Greedy cuadratico da 44 productos de sobra -> 0.02%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 44 productos más que Dinámico -> 0.02%
+
+::Pedido 19:: -> 10 tipos de productos, 105 paquetes por tipo
+	Greedy cuadratico da 84 productos de sobra -> 0.04%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 84 productos más que Dinámico -> 0.04%
+
+::Pedido 20:: -> 11 tipos de productos, 110 paquetes por tipo
+	Greedy cuadratico da 53 productos de sobra -> 0.02%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 53 productos más que Dinámico -> 0.02%
+
+::Pedido 21:: -> 11 tipos de productos, 115 paquetes por tipo
+	Greedy cuadratico da 89 productos de sobra -> 0.04%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 89 productos más que Dinámico -> 0.04%
+
+::Pedido 22:: -> 12 tipos de productos, 120 paquetes por tipo
+	Greedy cuadratico da 97 productos de sobra -> 0.03%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 97 productos más que Dinámico -> 0.03%
+
+::Pedido 23:: -> 12 tipos de productos, 125 paquetes por tipo
+	Greedy cuadratico da 168 productos de sobra -> 0.04%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 168 productos más que Dinámico -> 0.04%
+
+::Pedido 24:: -> 13 tipos de productos, 130 paquetes por tipo
+	Greedy cuadratico da 114 productos de sobra -> 0.03%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 114 productos más que Dinámico -> 0.03%
+
+::Pedido 25:: -> 13 tipos de productos, 135 paquetes por tipo
+	Greedy cuadratico da 84 productos de sobra -> 0.02%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 84 productos más que Dinámico -> 0.02%
+
+::Pedido 26:: -> 14 tipos de productos, 140 paquetes por tipo
+	Greedy cuadratico da 181 productos de sobra -> 0.05%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 181 productos más que Dinámico -> 0.05%
+
+::Pedido 27:: -> 14 tipos de productos, 145 paquetes por tipo
+	Greedy cuadratico da 130 productos de sobra -> 0.02%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 130 productos más que Dinámico -> 0.02%
+
+::Pedido 28:: -> 15 tipos de productos, 150 paquetes por tipo
+	Greedy cuadratico da 164 productos de sobra -> 0.02%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 164 productos más que Dinámico -> 0.02%
+
+::Pedido 29:: -> 15 tipos de productos, 155 paquetes por tipo
+	Greedy cuadratico da 181 productos de sobra -> 0.03%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy cuadratico dio un total de 181 productos más que Dinámico -> 0.03%
+
