@@ -1,150 +1,150 @@
 ::Pedido 0:: -> 1 tipos de productos, 10 paquetes por tipo
-	Greedy nlogn da 69 productos de sobra -> 64.49%
-	Dinámico da 1 productos de sobra -> 0.94%
-	Greedy nlogn dio un total de 68 productos más que Dinámico -> 63.55%
+	Greedy nlogn da 11 productos de sobra -> 2.6%
+	Dinámico da 8 productos de sobra -> 1.89%
+	Greedy nlogn dio un total de 3 productos más que Dinámico -> 0.71%
 
 ::Pedido 1:: -> 1 tipos de productos, 15 paquetes por tipo
-	Greedy nlogn da 3 productos de sobra -> 0.26%
-	Dinámico da 1 productos de sobra -> 0.09%
-	Greedy nlogn dio un total de 2 productos más que Dinámico -> 0.17%
+	Greedy nlogn da 9 productos de sobra -> 1.2%
+	Dinámico da 0 productos de sobra -> 0.0%
+	Greedy nlogn dio un total de 9 productos más que Dinámico -> 1.2%
 
 ::Pedido 2:: -> 2 tipos de productos, 20 paquetes por tipo
-	Greedy nlogn da 182 productos de sobra -> 11.12%
+	Greedy nlogn da 172 productos de sobra -> 14.17%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 182 productos más que Dinámico -> 11.12%
+	Greedy nlogn dio un total de 172 productos más que Dinámico -> 14.17%
 
 ::Pedido 3:: -> 2 tipos de productos, 25 paquetes por tipo
-	Greedy nlogn da 184 productos de sobra -> 12.23%
+	Greedy nlogn da 49 productos de sobra -> 1.76%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 184 productos más que Dinámico -> 12.23%
+	Greedy nlogn dio un total de 49 productos más que Dinámico -> 1.76%
 
 ::Pedido 4:: -> 3 tipos de productos, 30 paquetes por tipo
-	Greedy nlogn da 254 productos de sobra -> 3.74%
+	Greedy nlogn da 181 productos de sobra -> 1.74%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 254 productos más que Dinámico -> 3.74%
+	Greedy nlogn dio un total de 181 productos más que Dinámico -> 1.74%
 
 ::Pedido 5:: -> 3 tipos de productos, 35 paquetes por tipo
-	Greedy nlogn da 203 productos de sobra -> 1.49%
+	Greedy nlogn da 214 productos de sobra -> 2.38%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 203 productos más que Dinámico -> 1.49%
+	Greedy nlogn dio un total de 214 productos más que Dinámico -> 2.38%
 
 ::Pedido 6:: -> 4 tipos de productos, 40 paquetes por tipo
-	Greedy nlogn da 809 productos de sobra -> 7.5%
+	Greedy nlogn da 320 productos de sobra -> 1.92%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 809 productos más que Dinámico -> 7.5%
+	Greedy nlogn dio un total de 320 productos más que Dinámico -> 1.92%
 
 ::Pedido 7:: -> 4 tipos de productos, 45 paquetes por tipo
-	Greedy nlogn da 447 productos de sobra -> 1.99%
+	Greedy nlogn da 739 productos de sobra -> 6.17%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 447 productos más que Dinámico -> 1.99%
+	Greedy nlogn dio un total de 739 productos más que Dinámico -> 6.17%
 
 ::Pedido 8:: -> 5 tipos de productos, 50 paquetes por tipo
-	Greedy nlogn da 660 productos de sobra -> 2.41%
+	Greedy nlogn da 904 productos de sobra -> 3.76%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 660 productos más que Dinámico -> 2.41%
+	Greedy nlogn dio un total de 904 productos más que Dinámico -> 3.76%
 
 ::Pedido 9:: -> 5 tipos de productos, 55 paquetes por tipo
-	Greedy nlogn da 768 productos de sobra -> 1.86%
+	Greedy nlogn da 788 productos de sobra -> 2.29%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 768 productos más que Dinámico -> 1.86%
+	Greedy nlogn dio un total de 788 productos más que Dinámico -> 2.29%
 
 ::Pedido 10:: -> 6 tipos de productos, 60 paquetes por tipo
-	Greedy nlogn da 1294 productos de sobra -> 3.05%
+	Greedy nlogn da 1422 productos de sobra -> 2.97%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 1294 productos más que Dinámico -> 3.05%
+	Greedy nlogn dio un total de 1422 productos más que Dinámico -> 2.97%
 
 ::Pedido 11:: -> 6 tipos de productos, 65 paquetes por tipo
-	Greedy nlogn da 970 productos de sobra -> 1.61%
+	Greedy nlogn da 1361 productos de sobra -> 2.12%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 970 productos más que Dinámico -> 1.61%
+	Greedy nlogn dio un total de 1361 productos más que Dinámico -> 2.12%
 
 ::Pedido 12:: -> 7 tipos de productos, 70 paquetes por tipo
-	Greedy nlogn da 2074 productos de sobra -> 3.79%
+	Greedy nlogn da 1582 productos de sobra -> 1.93%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2074 productos más que Dinámico -> 3.79%
+	Greedy nlogn dio un total de 1582 productos más que Dinámico -> 1.93%
 
 ::Pedido 13:: -> 7 tipos de productos, 75 paquetes por tipo
-	Greedy nlogn da 2230 productos de sobra -> 2.07%
+	Greedy nlogn da 1673 productos de sobra -> 1.69%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2230 productos más que Dinámico -> 2.07%
+	Greedy nlogn dio un total de 1673 productos más que Dinámico -> 1.69%
 
 ::Pedido 14:: -> 8 tipos de productos, 80 paquetes por tipo
-	Greedy nlogn da 2117 productos de sobra -> 1.45%
+	Greedy nlogn da 2508 productos de sobra -> 1.67%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2117 productos más que Dinámico -> 1.45%
+	Greedy nlogn dio un total de 2508 productos más que Dinámico -> 1.67%
 
 ::Pedido 15:: -> 8 tipos de productos, 85 paquetes por tipo
-	Greedy nlogn da 2086 productos de sobra -> 1.42%
+	Greedy nlogn da 3195 productos de sobra -> 2.85%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2086 productos más que Dinámico -> 1.42%
+	Greedy nlogn dio un total de 3195 productos más que Dinámico -> 2.85%
 
 ::Pedido 16:: -> 9 tipos de productos, 90 paquetes por tipo
-	Greedy nlogn da 3565 productos de sobra -> 1.93%
+	Greedy nlogn da 3259 productos de sobra -> 1.89%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 3565 productos más que Dinámico -> 1.93%
+	Greedy nlogn dio un total de 3259 productos más que Dinámico -> 1.89%
 
 ::Pedido 17:: -> 9 tipos de productos, 95 paquetes por tipo
-	Greedy nlogn da 2735 productos de sobra -> 1.17%
+	Greedy nlogn da 2499 productos de sobra -> 1.08%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2735 productos más que Dinámico -> 1.17%
+	Greedy nlogn dio un total de 2499 productos más que Dinámico -> 1.08%
 
 ::Pedido 18:: -> 10 tipos de productos, 100 paquetes por tipo
-	Greedy nlogn da 3831 productos de sobra -> 1.68%
+	Greedy nlogn da 2339 productos de sobra -> 0.91%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 3831 productos más que Dinámico -> 1.68%
+	Greedy nlogn dio un total de 2339 productos más que Dinámico -> 0.91%
 
 ::Pedido 19:: -> 10 tipos de productos, 105 paquetes por tipo
-	Greedy nlogn da 2415 productos de sobra -> 0.97%
+	Greedy nlogn da 3188 productos de sobra -> 0.96%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 2415 productos más que Dinámico -> 0.97%
+	Greedy nlogn dio un total de 3188 productos más que Dinámico -> 0.96%
 
 ::Pedido 20:: -> 11 tipos de productos, 110 paquetes por tipo
-	Greedy nlogn da 3833 productos de sobra -> 1.13%
+	Greedy nlogn da 4526 productos de sobra -> 1.36%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 3833 productos más que Dinámico -> 1.13%
+	Greedy nlogn dio un total de 4526 productos más que Dinámico -> 1.36%
 
 ::Pedido 21:: -> 11 tipos de productos, 115 paquetes por tipo
-	Greedy nlogn da 4347 productos de sobra -> 1.59%
+	Greedy nlogn da 2941 productos de sobra -> 0.78%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 4347 productos más que Dinámico -> 1.59%
+	Greedy nlogn dio un total de 2941 productos más que Dinámico -> 0.78%
 
 ::Pedido 22:: -> 12 tipos de productos, 120 paquetes por tipo
-	Greedy nlogn da 3550 productos de sobra -> 1.08%
+	Greedy nlogn da 4890 productos de sobra -> 0.95%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 3550 productos más que Dinámico -> 1.08%
+	Greedy nlogn dio un total de 4890 productos más que Dinámico -> 0.95%
 
 ::Pedido 23:: -> 12 tipos de productos, 125 paquetes por tipo
-	Greedy nlogn da 4271 productos de sobra -> 0.84%
+	Greedy nlogn da 6149 productos de sobra -> 1.37%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 4271 productos más que Dinámico -> 0.84%
+	Greedy nlogn dio un total de 6149 productos más que Dinámico -> 1.37%
 
 ::Pedido 24:: -> 13 tipos de productos, 130 paquetes por tipo
-	Greedy nlogn da 6676 productos de sobra -> 1.21%
+	Greedy nlogn da 5498 productos de sobra -> 1.07%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 6676 productos más que Dinámico -> 1.21%
+	Greedy nlogn dio un total de 5498 productos más que Dinámico -> 1.07%
 
 ::Pedido 25:: -> 13 tipos de productos, 135 paquetes por tipo
-	Greedy nlogn da 7873 productos de sobra -> 1.73%
+	Greedy nlogn da 7742 productos de sobra -> 1.7%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 7873 productos más que Dinámico -> 1.73%
+	Greedy nlogn dio un total de 7742 productos más que Dinámico -> 1.7%
 
 ::Pedido 26:: -> 14 tipos de productos, 140 paquetes por tipo
-	Greedy nlogn da 8490 productos de sobra -> 1.92%
+	Greedy nlogn da 4499 productos de sobra -> 0.62%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 8490 productos más que Dinámico -> 1.92%
+	Greedy nlogn dio un total de 4499 productos más que Dinámico -> 0.62%
 
 ::Pedido 27:: -> 14 tipos de productos, 145 paquetes por tipo
-	Greedy nlogn da 5989 productos de sobra -> 0.79%
+	Greedy nlogn da 4776 productos de sobra -> 0.57%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 5989 productos más que Dinámico -> 0.79%
+	Greedy nlogn dio un total de 4776 productos más que Dinámico -> 0.57%
 
 ::Pedido 28:: -> 15 tipos de productos, 150 paquetes por tipo
-	Greedy nlogn da 8865 productos de sobra -> 1.02%
+	Greedy nlogn da 4909 productos de sobra -> 0.47%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 8865 productos más que Dinámico -> 1.02%
+	Greedy nlogn dio un total de 4909 productos más que Dinámico -> 0.47%
 
 ::Pedido 29:: -> 15 tipos de productos, 155 paquetes por tipo
-	Greedy nlogn da 8489 productos de sobra -> 0.96%
+	Greedy nlogn da 7751 productos de sobra -> 0.73%
 	Dinámico da 0 productos de sobra -> 0.0%
-	Greedy nlogn dio un total de 8489 productos más que Dinámico -> 0.96%
+	Greedy nlogn dio un total de 7751 productos más que Dinámico -> 0.73%
 
