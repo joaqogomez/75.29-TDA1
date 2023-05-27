@@ -74,7 +74,7 @@ def empaquetar_aprox(items):
     paquetes = []
     paquete_actual = []
     for item in items:
-        if round(sum(paquete_actual) + item, 3) <= 1:
+        if round(sum(paquete_actual) + item, 4) <= 1:
             paquete_actual.append(item)
         else:
             paquetes.append(paquete_actual)
@@ -100,7 +100,7 @@ def empaquetar_greedy(items):
         agregado = False
         for i in range(len(paquetes)):
             # si el item entra en el paquete
-            if round(sum(paquetes[i]) + item, 3) <= 1:
+            if round(sum(paquetes[i]) + item, 4) <= 1:
                 paquetes[i].append(item)
                 agregado = True
                 break
@@ -149,6 +149,8 @@ def main():
     paquetes = funcion(items)
     end = time()
     print(f"{nombre}: {len(paquetes)} paquetes")
+    print(paquetes)
+    print([sum(p) for p in paquetes])
     print(f"Tiempo de ejecución: {round((end - start) * 1000, 4)} ms")
     
 
