@@ -144,6 +144,9 @@ def main():
                 items.append(float(f.readline()))
     except:
         return_error()
+    
+    # print(funcion)
+    # print(nombre)
 
     start = time()
     paquetes = funcion(items)
