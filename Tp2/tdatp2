@@ -18,10 +18,8 @@ import readline
 
 
 # Función que calcula la solución exacta del problema.
-def _empaquetar_back(items, paquetes, tabs=0, len_min=inf):
+def _empaquetar_back(items, paquetes, len_min=inf):
     if len(items) == 0:
-        # print("\t"*tabs, "items:", items)
-        # print("\t"*tabs, "paquetes:", paquetes)
         return paquetes
     
     # tomamos el primer item
@@ -30,19 +28,17 @@ def _empaquetar_back(items, paquetes, tabs=0, len_min=inf):
     # agrego un nuevo paquete
     if paquetes == []:
         paquetes.append([item])
-        return _empaquetar_back(items.copy(), deepcopy(paquetes), tabs+1)
+        return _empaquetar_back(items.copy(), deepcopy(paquetes))
 
     # hay que empaquetar el item
     # puede ser en un paquete existente
     # o en un paquete nuevo
     opciones = []
-    # print("\t"*tabs, "item:", item)
-    # print("\t"*tabs, "paquetes:", paquetes)
     for i in range(len(paquetes)):
         if sum(paquetes[i]) + item <= 1:
             paquetes_copia = deepcopy(paquetes)
             paquetes_copia[i].append(item)
-            opcion = _empaquetar_back(items.copy(), paquetes_copia, tabs+1, len_min)
+            opcion = _empaquetar_back(items.copy(), paquetes_copia, len_min)
             if len(opcion) < len_min:
                len_min = len(opcion)
                opciones = [opcion]
@@ -51,16 +47,13 @@ def _empaquetar_back(items, paquetes, tabs=0, len_min=inf):
     if len(opciones) + 1 <= len_min:
         paquetes_copia = deepcopy(paquetes)
         paquetes_copia.append([item])
-        opciones.append(_empaquetar_back(items.copy(), paquetes_copia, tabs+1, len_min))
+        opciones.append(_empaquetar_back(items.copy(), paquetes_copia, len_min))
                 
-    # print("\t"*tabs, "opciones:", opciones)
     min = opciones[0]
 
     for opcion in opciones:
         if len(opcion) < len(min):
             min = opcion
-
-    # print("\t"*tabs, "min:", min)
 
     return min
             
@@ -73,12 +66,15 @@ def empaquetar_back(items):
 def empaquetar_aprox(items):
     paquetes = []
     paquete_actual = []
+    suma_actual = 0
     for item in items:
-        if round(sum(paquete_actual) + item, 4) <= 1:
+        if round(suma_actual + item, 4) <= 1:
             paquete_actual.append(item)
+            suma_actual += item
         else:
             paquetes.append(paquete_actual)
             paquete_actual = [item]
+            suma_actual = item
     paquetes.append(paquete_actual)
     return paquetes
 
@@ -88,26 +84,30 @@ def empaquetar_greedy(items):
     #ordenamos los items de mayor a menor
     items.sort(reverse=True)
     paquetes = []
+    paquetes_suma = []
 
     for item in items:
         
         # si no hay paquetes creo el primero
         if paquetes == []:
             paquetes.append([item])
+            paquetes_suma.append(item)
             continue
 
         # itero sobre los paquetes
         agregado = False
         for i in range(len(paquetes)):
             # si el item entra en el paquete
-            if round(sum(paquetes[i]) + item, 4) <= 1:
+            if round(paquetes_suma[i] + item, 4) <= 1:
                 paquetes[i].append(item)
+                paquetes_suma[i] += item
                 agregado = True
                 break
 
         # si no entra en ningun paquete
         if not agregado:
             paquetes.append([item])
+            paquetes_suma.append(item)
             
     return paquetes
 
@@ -149,9 +149,7 @@ def main():
     paquetes = funcion(items)
     end = time()
     print(f"{nombre}: {len(paquetes)} paquetes")
-    print(paquetes)
-    print([sum(p) for p in paquetes])
-    print(f"Tiempo de ejecución: {round((end - start) * 1000, 4)} ms")
+    print(f"{round((end - start) * 1000, 4)}")
     
 
 if __name__ == "__main__":

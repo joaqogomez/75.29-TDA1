@@ -1,0 +1,300 @@
+Para 1 items:
+Aproximacion -> 1 paquetes
+Greedy -> 1 paquetes
+
+Diferecia -> 0
+
+Para 51 items:
+Aproximacion -> 36 paquetes
+Greedy -> 28 paquetes
+
+Diferecia -> 8
+
+Para 101 items:
+Aproximacion -> 68 paquetes
+Greedy -> 53 paquetes
+
+Diferecia -> 15
+
+Para 151 items:
+Aproximacion -> 93 paquetes
+Greedy -> 74 paquetes
+
+Diferecia -> 19
+
+Para 201 items:
+Aproximacion -> 141 paquetes
+Greedy -> 109 paquetes
+
+Diferecia -> 32
+
+Para 251 items:
+Aproximacion -> 174 paquetes
+Greedy -> 134 paquetes
+
+Diferecia -> 40
+
+Para 301 items:
+Aproximacion -> 190 paquetes
+Greedy -> 149 paquetes
+
+Diferecia -> 41
+
+Para 351 items:
+Aproximacion -> 237 paquetes
+Greedy -> 181 paquetes
+
+Diferecia -> 56
+
+Para 401 items:
+Aproximacion -> 263 paquetes
+Greedy -> 203 paquetes
+
+Diferecia -> 60
+
+Para 451 items:
+Aproximacion -> 306 paquetes
+Greedy -> 239 paquetes
+
+Diferecia -> 67
+
+Para 501 items:
+Aproximacion -> 346 paquetes
+Greedy -> 269 paquetes
+
+Diferecia -> 77
+
+Para 551 items:
+Aproximacion -> 378 paquetes
+Greedy -> 294 paquetes
+
+Diferecia -> 84
+
+Para 601 items:
+Aproximacion -> 379 paquetes
+Greedy -> 291 paquetes
+
+Diferecia -> 88
+
+Para 651 items:
+Aproximacion -> 438 paquetes
+Greedy -> 339 paquetes
+
+Diferecia -> 99
+
+Para 701 items:
+Aproximacion -> 481 paquetes
+Greedy -> 370 paquetes
+
+Diferecia -> 111
+
+Para 751 items:
+Aproximacion -> 506 paquetes
+Greedy -> 387 paquetes
+
+Diferecia -> 119
+
+Para 801 items:
+Aproximacion -> 544 paquetes
+Greedy -> 418 paquetes
+
+Diferecia -> 126
+
+Para 851 items:
+Aproximacion -> 562 paquetes
+Greedy -> 423 paquetes
+
+Diferecia -> 139
+
+Para 901 items:
+Aproximacion -> 589 paquetes
+Greedy -> 446 paquetes
+
+Diferecia -> 143
+
+Para 951 items:
+Aproximacion -> 620 paquetes
+Greedy -> 474 paquetes
+
+Diferecia -> 146
+
+Para 1001 items:
+Aproximacion -> 652 paquetes
+Greedy -> 497 paquetes
+
+Diferecia -> 155
+
+Para 1051 items:
+Aproximacion -> 719 paquetes
+Greedy -> 561 paquetes
+
+Diferecia -> 158
+
+Para 1101 items:
+Aproximacion -> 724 paquetes
+Greedy -> 549 paquetes
+
+Diferecia -> 175
+
+Para 1151 items:
+Aproximacion -> 777 paquetes
+Greedy -> 593 paquetes
+
+Diferecia -> 184
+
+Para 1201 items:
+Aproximacion -> 806 paquetes
+Greedy -> 620 paquetes
+
+Diferecia -> 186
+
+Para 1251 items:
+Aproximacion -> 843 paquetes
+Greedy -> 634 paquetes
+
+Diferecia -> 209
+
+Para 1301 items:
+Aproximacion -> 888 paquetes
+Greedy -> 682 paquetes
+
+Diferecia -> 206
+
+Para 1351 items:
+Aproximacion -> 877 paquetes
+Greedy -> 665 paquetes
+
+Diferecia -> 212
+
+Para 1401 items:
+Aproximacion -> 911 paquetes
+Greedy -> 698 paquetes
+
+Diferecia -> 213
+
+Para 1451 items:
+Aproximacion -> 952 paquetes
+Greedy -> 726 paquetes
+
+Diferecia -> 226
+
+Para 1501 items:
+Aproximacion -> 997 paquetes
+Greedy -> 752 paquetes
+
+Diferecia -> 245
+
+Para 1551 items:
+Aproximacion -> 1021 paquetes
+Greedy -> 772 paquetes
+
+Diferecia -> 249
+
+Para 1601 items:
+Aproximacion -> 1069 paquetes
+Greedy -> 825 paquetes
+
+Diferecia -> 244
+
+Para 1651 items:
+Aproximacion -> 1088 paquetes
+Greedy -> 832 paquetes
+
+Diferecia -> 256
+
+Para 1701 items:
+Aproximacion -> 1143 paquetes
+Greedy -> 876 paquetes
+
+Diferecia -> 267
+
+Para 1751 items:
+Aproximacion -> 1142 paquetes
+Greedy -> 866 paquetes
+
+Diferecia -> 276
+
+Para 1801 items:
+Aproximacion -> 1221 paquetes
+Greedy -> 927 paquetes
+
+Diferecia -> 294
+
+Para 1851 items:
+Aproximacion -> 1232 paquetes
+Greedy -> 925 paquetes
+
+Diferecia -> 307
+
+Para 1901 items:
+Aproximacion -> 1313 paquetes
+Greedy -> 1024 paquetes
+
+Diferecia -> 289
+
+Para 1951 items:
+Aproximacion -> 1322 paquetes
+Greedy -> 1000 paquetes
+
+Diferecia -> 322
+
+Para 2001 items:
+Aproximacion -> 1316 paquetes
+Greedy -> 997 paquetes
+
+Diferecia -> 319
+
+Para 2051 items:
+Aproximacion -> 1408 paquetes
+Greedy -> 1098 paquetes
+
+Diferecia -> 310
+
+Para 2101 items:
+Aproximacion -> 1369 paquetes
+Greedy -> 1050 paquetes
+
+Diferecia -> 319
+
+Para 2151 items:
+Aproximacion -> 1504 paquetes
+Greedy -> 1164 paquetes
+
+Diferecia -> 340
+
+Para 2201 items:
+Aproximacion -> 1481 paquetes
+Greedy -> 1124 paquetes
+
+Diferecia -> 357
+
+Para 2251 items:
+Aproximacion -> 1490 paquetes
+Greedy -> 1125 paquetes
+
+Diferecia -> 365
+
+Para 2301 items:
+Aproximacion -> 1569 paquetes
+Greedy -> 1199 paquetes
+
+Diferecia -> 370
+
+Para 2351 items:
+Aproximacion -> 1569 paquetes
+Greedy -> 1196 paquetes
+
+Diferecia -> 373
+
+Para 2401 items:
+Aproximacion -> 1624 paquetes
+Greedy -> 1233 paquetes
+
+Diferecia -> 391
+
+Para 2451 items:
+Aproximacion -> 1670 paquetes
+Greedy -> 1286 paquetes
+
+Diferecia -> 384
+
