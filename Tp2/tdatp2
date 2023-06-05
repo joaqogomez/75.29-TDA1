@@ -149,7 +149,7 @@ def main():
     paquetes = funcion(items)
     end = time()
     print(f"{nombre}: {len(paquetes)} paquetes")
-    print(f"{round((end - start) * 1000, 4)}")
+    print(round((end - start) * 1000, 4))
     
 
 if __name__ == "__main__":

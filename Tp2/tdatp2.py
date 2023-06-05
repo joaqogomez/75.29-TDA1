@@ -39,6 +39,12 @@ def _empaquetar_back(items, paquetes, len_min=inf):
             paquetes_copia = deepcopy(paquetes)
             paquetes_copia[i].append(item)
             opcion = _empaquetar_back(items.copy(), paquetes_copia, len_min)
+
+            # veo si todos los paquetes de la opcion son de longitud 1
+            # si es asi, no tiene sentido seguir buscando
+            if all(round(sum(paquete)) == 1 for paquete in opcion):
+                return opcion
+            
             if len(opcion) < len_min:
                len_min = len(opcion)
                opciones = [opcion]
